@@ -22,7 +22,7 @@ the code will try to generate the first word that match the color needed in alph
 
 there are now 6 patterns included
 
-pattern_67_0
+pattern_67_0<br>
 🟩🟩🟩⬜⬜<br>
 🟩⬜🟨🟨🟨<br>
 🟩🟩🟩⬜🟨<br>
@@ -30,7 +30,7 @@ pattern_67_0
 🟩🟩🟩⬜🟨<br>
 ⬜⬜⬜⬜🟨<br>
 
-pattern_67_1
+pattern_67_1<br>
 🟨🟨🟨⬜⬜<br>
 🟨⬜🟩🟩🟩<br>
 🟨🟨🟨⬜🟩<br>
@@ -38,7 +38,7 @@ pattern_67_1
 🟨🟨🟨⬜🟩<br>
 ⬜⬜⬜⬜🟩<br>
 
-pattern_67_2
+pattern_67_2<br>
 ⬜⬜🟩🟩🟩<br>
 🟩🟩🟩⬜🟩<br>
 🟩⬜⬜⬜🟩<br>
@@ -46,7 +46,7 @@ pattern_67_2
 🟩⬜🟩⬜🟩<br>
 🟩🟩🟩⬜⬜<br>
 
-pattern_67_3
+pattern_67_3<br>
 ⬜⬜🟨🟨🟨<br>
 🟨🟨🟨⬜🟨<br>
 🟨⬜⬜⬜🟨<br>
@@ -54,7 +54,7 @@ pattern_67_3
 🟨⬜🟨⬜🟨<br>
 🟨🟨🟨⬜⬜<br>
 
-pattern_67_4
+pattern_67_4<br>
 ⬜⬜🟨🟨🟨<br>
 🟩🟩🟩⬜🟨<br>
 🟩⬜⬜⬜🟨<br>
@@ -62,7 +62,7 @@ pattern_67_4
 🟩⬜🟩⬜🟨<br>
 🟩🟩🟩⬜⬜<br>
 
-pattern_67_5
+pattern_67_5<br>
 ⬜⬜🟩🟩🟩<br>
 🟨🟨🟨⬜🟩<br>
 🟨⬜⬜⬜🟩<br>
@@ -70,7 +70,7 @@ pattern_67_5
 🟨⬜🟨⬜🟩<br>
 🟨🟨🟨⬜⬜<br>
 
-(pattern 0 and 1 have no same color version cause it might look like 87)
+(pattern 0 and 1 have no same color version cause it might look like 87)<br>
 🟩🟩🟩⬜⬜<br>
 🟩⬜🟩🟩🟩<br>
 🟩🟩🟩⬜🟩<br>
